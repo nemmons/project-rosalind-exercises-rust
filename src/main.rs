@@ -1,7 +1,7 @@
 mod problems;
 
 use std::env;
-use problems::{dna, rna};
+use problems::{dna, rna, revc};
 
 // problem-selection code heavily inspired by https://github.com/agubelu/AoC-rust-template/blob/master/src/main.rs
 fn main() {
@@ -19,6 +19,7 @@ fn solve_problem(problem: &str) -> String {
     match problem {
         "dna" => dna::solve(),
         "rna" => rna::solve(),
+        "revc" => revc::solve(),
         _ => unimplemented!()
     }
 }
