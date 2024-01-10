@@ -4,3 +4,4 @@ pub mod revc;
 pub mod fib;
 pub mod gc;
 pub mod hamm;
+pub mod prot;
