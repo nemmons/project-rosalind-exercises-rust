@@ -1,4 +1,4 @@
-Rosalind - Rust
+# Rosalind - Rust
 
 Practicing Rust by working through [Rosalind](https://rosalind.info) exercises.
 
