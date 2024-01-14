@@ -1,6 +1,6 @@
-# Project Rosalind - Rust
+Rosalind - Rust
 
-Practicing Rust by working through [Project Rosalind](https://rosalind.info) exercises.
+Practicing Rust by working through [Rosalind](https://rosalind.info) exercises.
 
 ## Usage
 * `cargo test` will execute tests
